@@ -9,6 +9,8 @@
 
 ## Dependencies:
 - [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
+
+## Recomendations:
 - [Community Parts Titles](https://forum.kerbalspaceprogram.com/topic/174189-112-community-parts-titles-2024-07-04/) (if you don't have this mod, the names won't match up with other parts)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
