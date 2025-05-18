@@ -12,6 +12,7 @@
 
 ## Recommendations:
 - [Community Parts Titles](https://forum.kerbalspaceprogram.com/topic/174189-112-community-parts-titles-2024-07-04/)
+---
 Parts names will be adjusted based on whether CPT is installed or not.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,4 +20,4 @@ Parts names will be adjusted based on whether CPT is installed or not.
 ## Optional:
 If you have some popular mods installed like ReStock+ or Near Future Spacecraft, there is an optional patch that can change the names of some of the modded parts to be like in KSP2, too.
 
-If you don't want this, though, just delete the "modded-parts-OPTIONAL" file, and the parts will go back to their original names that CPT gave them.
+If you don't want this, though, just delete the "modded-parts-OPTIONAL" file, and the parts will go back to their original names.
